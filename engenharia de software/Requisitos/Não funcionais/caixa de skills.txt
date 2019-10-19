@@ -1,0 +1,6 @@
+1.A caixa deve ter: colisor
+2.A caixa deve ter: som
+3.A caixa deve ter:efeitos (ex. bomba:explodir o carro(
+4.A caixa deve ter:respawn a cada 10s
+5.A caixa deve ter: destroy gameObject
+6.A caixa deve ter:

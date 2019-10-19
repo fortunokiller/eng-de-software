@@ -1,0 +1,8 @@
+1.O kart deve ter: peso para a gravidade
+2.O kart deve ter: movimentos, aceleração, freio, rot direita, rotação essquerda
+3.O kart deve ter: camera
+4.O kart deve ter: som
+5.O kart deve ter: colisores
+6.O kart deve ter:controle por teclado, joystick, e touck screen
+7.O kart deve ter: posicao de lançamento da skill
+8.O kart deve ter: o nome sobre a cabeça do jogador

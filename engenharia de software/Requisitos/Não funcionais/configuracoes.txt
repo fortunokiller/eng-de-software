@@ -1,0 +1,4 @@
+1.Cena de configuracoes deve ter: controle de volume do jogo
+2.Cena de configuracoes deve ter: config de resolucao
+3.Cena de configuracoes deve ter: botao para retornar ao menu principal
+4.Cena de configuracoes deve ter:mostrar teclas de jogo(talvez seta-las)

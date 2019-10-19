@@ -1,0 +1,5 @@
+1.A skill deve ter: velocidade do kart aumentada por algum tempo
+2.A skill deve ter : som
+3.A skill deve ter : animação
+4.A skill deve ter : 
+

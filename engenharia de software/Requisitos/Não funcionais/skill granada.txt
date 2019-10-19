@@ -1,0 +1,8 @@
+1.A skill deve ter: distancia a ser lançada
+2.A skill deve ter : fisica(gravidade)
+3.A skill deve ter : massa
+4.A skill deve ter : ação (explosao do adv)
+5.A skill deve ter :som
+6.A skill deve ter : animacao de explosao
+7.A skill deve ter : se destruir do mapa(visualmente(destroy.gameobject(10s)))
+8.

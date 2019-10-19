@@ -1,0 +1,5 @@
+1.Pista: deve ter colisores
+2.Pista:deve ter linha de chegada
+3.Pista:deve ter check points
+4.Pista:deve ter caixa de skills
+5.

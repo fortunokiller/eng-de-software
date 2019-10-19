@@ -1,0 +1,3 @@
+1.o cliente deve ter sistema operacional WINDOWs
+2.o sistema operacional deve ter mais que 1gb de ram
+3.o cliente deve ter android 6 ou superior

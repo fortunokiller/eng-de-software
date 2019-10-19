@@ -1,0 +1,5 @@
+1. A sala deve ter: botao para voltar ao menu principal
+2. A sala deve ter: listagens de todos jogadores que esta na sala
+3. A sala deve ter: botao para sinalizar que pode iniciar a partida
+4. A sala deve ter: start game para quem for anfitriao
+5. A sala deve ter: escolher a cor do seu kart

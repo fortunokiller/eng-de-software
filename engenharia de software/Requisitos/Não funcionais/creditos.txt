@@ -1,0 +1,2 @@
+1.O canvas de creditos deve ter: botao para voltar ao menu principal
+2.O canvas de creditos deve ter: listagem de creditos

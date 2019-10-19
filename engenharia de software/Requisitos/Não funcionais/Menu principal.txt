@@ -1,0 +1,6 @@
+1.O Menu principal deve ter: botao para fechar jogo
+2.O Menu principal deve ter:botao para ir para configuracoes
+3.O Menu principal deve ter: botao para jogar modo online
+4.O Menu principal deve ter: o botao para mostrar os creditos
+5.O Menu principal deve ter: audio
+6.O Menu principal deve ter: campo para insirir seu nome, ou vincular ao fb

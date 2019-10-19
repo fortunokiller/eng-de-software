@@ -1,0 +1,2 @@
+1. O modo online deve ter: lista de salas existentes 
+2. O modo online deve ter: criar uma sala nova

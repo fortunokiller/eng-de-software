@@ -1,0 +1,36 @@
+Fluxo principal(menu principal)
+
+1.O cliente pode fechar o jogo
+
+2.O cliente pode entrar na cena de creditos
+	-cliente volta ao menu principal 2.1
+
+3.O cliente entra na cena de configuracoes
+	-cliente define o volume do som 	3.1
+	-cliente define a resolucao do jogo 	3.2
+	-cliente define as teclas de jogo	3.3
+	-cliente volta ao menu principal	3.4
+
+4.O cliente pode clicar em jogar
+	-voltar menu principal			4.1
+	-nick			 		4.2
+	-criar sala				4.3 ver variante
+	-escolher sala				4.4 ver variante
+
+VARIANTES
+
+4.3 Criar sala
+	-definir sua cor do kart		4.3.1
+	-dar 'ready'				4.3.2
+	-dar 'go'				4.3.3
+	-voltar ao menu principal		4.3.4
+
+4.4 Escolher sala
+	-definir sua cor do kart		4.4.1
+	-dar 'dar ready'			4.4.2
+	-voltar ao menu principal		4.4.3
+
+
+	
+
+

@@ -1,0 +1,5 @@
+1.A cena deve ter: quadro de skill que vc esta no momento
+2.A cena deve ter:
+3.A cena deve ter: quasificação(texto com sua posicao entre corredores)
+4.A cena deve ter:velocidade do kart
+5.A cena deve ter:
